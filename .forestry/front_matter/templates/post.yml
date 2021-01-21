@@ -24,4 +24,5 @@ fields:
   name: disable_share
   label: disable_share
 pages:
+- content/post/alles-klar.md
 - content/post/chapter-6.md
